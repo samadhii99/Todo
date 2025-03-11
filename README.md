@@ -1,12 +1,7 @@
-# ✅ Todo App
+# ✅ Todo App  
 
-A simple Todo app built with **React, TypeScript, Vite, and Tailwind CSS**.
-
-## 🚀 Features
-- Add, edit, delete todos  
-- Mark todos as completed  
-- Responsive UI  
-
-## 🛠️ Tech Stack
-- React, TypeScript, Vite  
-- Tailwind CSS, shadcn/ui  
+A simple **React + TypeScript** Todo App with **Vite** and **Tailwind CSS**.  
+Features include **adding, editing, deleting, and completing todos** with a clean UI.  
+To run the project: **`git clone` → `npm install` → `npm run dev`**.  
+Built with **React, TypeScript, Vite, Tailwind CSS, and shadcn/ui**.  
+Licensed under **MIT** – Happy Coding! 🚀  
